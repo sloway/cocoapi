@@ -16,4 +16,7 @@ PythonAPI/pycocotools/cocoeval.pyc
 PythonAPI/pycocotools/mask.pyc
 
 
+# My change
+PythonAPI/pycocotools/__pycache__
+*.so
 .ipynb_checkpoints/

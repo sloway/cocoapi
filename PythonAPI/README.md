@@ -11,7 +11,7 @@ For annotations, unzip [file](http://images.cocodataset.org/annotations/annotati
 The first task is picking images to keypoint test.
 This time, I just use images like this  
 - Image has a single person
-- The person has keypoints more than 13
+- The person has keypoints more than 13  
 And output is gonna be csv or json file having image data to be used as input of Mediapipe pose detection.
 
 The second task is pose detection by Mediapipe 
